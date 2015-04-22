@@ -1,0 +1,350 @@
+.header{
+    width: 1000px;
+    height: 72px;
+    background: #fffabe;
+}
+
+.top-menu li{
+    list-style-type: none;
+    display: inline;
+    margin: 20px;
+    text-transform: uppercase;
+    font-size: 16px;
+    color: #515151;
+    
+}
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.logo {
+    background-image: url(images/logo.png);
+    height: 33px;
+    width: 156px;
+    display: inline-block;
+    margin-top: 17px;
+    margin-left: 45px;
+}
+
+.top-menu {
+    display: inline-block;
+    width: 70%;
+    text-align: center;
+}
+
+.welcome-image {
+    background-image: url(images/welcome-image.png);
+    width: 1000px;
+    height: 400px;
+}
+
+.content-image {
+    background-image: url(images/macarons-image.png);
+    width: 187px;
+    height: 240px;
+    position: relative; 
+    display: inline-block;
+    margin: 80px 20px;
+    float: left;
+}
+
+.content-text {
+    position: relative;
+    float: right;
+    width: 770px;
+    font-size: 20px;
+    color: #6a6969;
+} 
+.content-our-macaroons {
+    width: 1000px;
+    height: 400px;
+    margin-top: 80px;
+    margin-bottom: 100px;
+    background-image: url(images/our-macarons-background.png);
+    background-position: center;
+}
+
+.weekdays {
+    width: 126px;
+    height: 140px;
+    background-color: #fffabe;
+    display: inline-block; 
+    float:left;
+    margin: 80px 5px;
+    font-size: 14px;
+}
+
+.flavor-header {
+    font-size: 16px;
+    color: #6a6969;
+    width: 1000px;
+    padding-left: 225px;       
+}
+
+img {
+    float: right; 
+    margin-left: -10px;   
+} 
+
+.top-flavor {
+    width: 124px;
+    height: 33px;
+    margin-top: 30px;
+    padding-top: 1px;
+    padding-left: 5px;
+    color: #6a6969;  
+}
+
+.bottom-flavor {
+    width: 124px;
+    height: 33px;
+    margin-top: -11px;
+    padding-left: 5px;  
+    color: #6a6969;
+}
+
+.weekday-text {
+    margin-bottom: -10px;
+    color: #6a6969;
+    padding-left: 5px;
+}
+
+#vanilla {
+    background-color: #df5277;
+    color: white;
+}
+
+#coconut {
+    background-color: #824603;
+    color: white;
+}
+
+#lemon {
+    background-color: #a2304e;
+    color: white;
+}
+
+#almond {
+    background-color: #c39005;
+    color: white;
+}
+
+.footer {
+    width: 1000px;
+    height: 80px;
+    background-color: #df5277;
+    display: relative;
+    margin-top: 50px;
+}
+
+section {
+    width: 1000px;
+    height: 650px;
+    margin-left: 18px;
+}
+
+.mail {
+    width: 180px;
+    height: 30px;
+    color: white;
+    margin-left: 80px;
+    position: relative;
+    top: 15px;
+}
+#mail-logo {
+    float: left;
+    margin-right: 10px;
+}
+
+.phone {
+    width: 300px;
+    height: 50px;
+    display: inline-block;
+    position: relative;
+    left: 350px;
+    bottom: 20px;
+    color: white;
+}
+
+#phone {
+    float: left;
+    position: relative;
+    top: 8px;
+    left: 80px;
+}
+
+#number {
+    position: relative;
+    left: 100px;
+    bottom: 5px;
+}
+
+#copyright {
+    position: relative;
+    bottom: 10px;
+}
+
+.social {
+    position: relative;
+    display: inline-block;
+    width: 200px;
+    right: -400px;
+    top: -50px;
+    color: white;
+}
+
+.fb {
+    position: relative;
+    top: -30px;
+    left: -90px;
+}
+
+.twitter {
+    position: relative;
+    top: -28px;
+    left: -55px;
+}
+.our-macaroons-image {
+    background-image: url(images/our-macarons-image.png);
+    width: 1000px;
+    height: 400px;
+}
+
+.our-macaroon-content {
+    color: #6a6969;
+}
+
+.content h1 {
+    font-size: 20px;
+    margin-bottom: 30px;
+    font-weight: normal;
+}
+
+.content p {
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+.our-macaroon-content ul {
+    font-size: 20px;
+}
+.eating-directions {
+    width: 1000px;
+    height: 100px;
+    position: relative;
+    margin-top: 60px;
+    margin-bottom: 50px;
+} 
+
+.content {
+    width: 1000px;
+}
+
+.gift-parties-image {
+    background-image: url(images/gifts-parties-image.png);
+    width: 1000px;
+    height: 400px;
+}
+
+.content-gifts-parties {
+    width: 1000px;
+    height: 600px;
+    background-image: url(images/gifts-parties-background.png);
+    background-position: center; 
+    color: #6a6969;
+    padding-top: 50px;
+}
+
+.orders {
+    color: #df5277;
+}
+.content-gifts-parties h1{
+    font-size: 20px;
+    font-weight: normal; 
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+body {
+    width: 1000px;
+}
+
+.contact-image {
+    background-image: url(images/contact-image.png);
+    width: 1000px;
+    height: 400px;
+}
+
+.content-contact {
+    width: 1000px;
+    height: 400px; 
+    margin-top: 80px;
+    color: #6a6969;
+
+}
+
+.row1 {
+    width: 300px;
+    height: 300px; 
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.row2 {
+    width: 300px;
+    height 400px; 
+    display: inline-block;
+    margin-right: 30px;
+    position: relative;
+    top: 40px;
+}
+
+.row3 {
+    width: 187px;
+    height: 240px; 
+    display: inline-block;
+    background-image: url(images/macarons-image.png);  
+    position: relative;
+    left: 20px;
+    top: 30px;
+}
+.content-contact h1{
+ font-size: 20px;
+ font-weight: normal;
+}
+.form {
+    width: 310px;
+    height: 35px;
+    background-color: #f5f5f5;
+    border: none;
+    margin-bottom: 10px; 
+    color: #6a6969;
+}
+
+textarea {
+    width: 310px;
+    height: 70px;
+    background-color: #f5f5f5;
+    border: none;
+    color: #6a6969;
+}
+
+.button {
+    float: right;
+    width: 155px;
+    height: 35px;
+    background-color: #f5f5f5;
+    margin-top: 10px;
+    margin-right: -12px;
+    border: none;
+}
+
+a {
+    text-decoration: none; 
+}
+a:hover {
+    text-decoration: none;
+    color: #d42551;
+}
